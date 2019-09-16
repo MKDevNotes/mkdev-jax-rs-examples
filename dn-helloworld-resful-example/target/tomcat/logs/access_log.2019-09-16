@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:15:48:42 +0530] "GET / HTTP/1.1" 200 57 http-bio-8080-exec-1 3232
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:15:48:43 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:16:02:03 +0530] "GET / HTTP/1.1" 200 57 http-bio-8080-exec-1 71
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:16:02:21 +0530] "GET /rest/helloworld HTTP/1.1" 200 31 http-bio-8080-exec-4 103
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:16:03:19 +0530] "GET /rest/helloworld HTTP/1.1" 200 31 http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:16:06:19 +0530] "GET /rest/helloworld HTTP/1.1" 200 31 http-bio-8080-exec-1 112
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:16:06:29 +0530] "GET /rest/helloworld/Muthu HTTP/1.1" 200 27 http-bio-8080-exec-3 12
